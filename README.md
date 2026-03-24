@@ -60,7 +60,7 @@ The dataset is not included in this repository due to size limitations.
 
 You can download it here:
 
-👉 https://drive.google.com/file/d/10nyZeKiG7KzJB3dS3FYzrGzrscgM5l9K/view?usp=drive\_link
+👉https://drive.google.com/drive/folders/1r53mVOPdodlAjqKsVlynI5_Juwui3mbT?usp=sharing
 
 
 
