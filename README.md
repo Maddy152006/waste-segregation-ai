@@ -1,6 +1,6 @@
 # AI-Based Waste Segregation System
 
-An AI-powered real-time waste classification system built using **MobileNetV2**, **TensorFlow/Keras**, and **Computer Vision** techniques to automatically classify waste materials into different recyclable categories.
+An AI-powered real-time waste classification system built with **MobileNetV2**, **TensorFlow/Keras**, and **Computer Vision** techniques to automatically classify waste materials into distinct recyclable categories.
 
 The system is capable of classifying waste into:
 - Metal
@@ -15,14 +15,14 @@ This project also supports **real-time webcam-based prediction** using **OpenCV 
 
 #  Features
 
- Real-time waste classification using webcam input  
- Transfer Learning with MobileNetV2  
- Deep Learning-based image classification  
- Confusion Matrix evaluation  
- Accuracy & Loss visualisation graphs  
- Organised training and inference pipeline  
- Lightweight model suitable for real-time applications  
-Future-ready for robotics and smart recycling systems
+-  Real-time waste classification using webcam input
+- Transfer Learning with MobileNetV2  
+- Deep Learning-based image classification  
+- Confusion Matrix evaluation  
+- Accuracy & Loss visualisation graphs  
+- Organised training and inference pipeline  
+- Lightweight model suitable for real-time applications  
+- Future-ready for robotics and smart recycling systems
 
 ---
 
@@ -55,7 +55,7 @@ Future-ready for robotics and smart recycling systems
 
 ---
 
-# 📌 Confusion Matrix
+# Confusion Matrix
 
 <img width="1230" height="1013" alt="image" src="https://github.com/user-attachments/assets/09752440-6300-4dcf-ab50-819b9950d69f" />
 
@@ -64,7 +64,7 @@ The confusion matrix shows strong classification performance across all four was
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 - Python
 - TensorFlow
@@ -77,7 +77,7 @@ The confusion matrix shows strong classification performance across all four was
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 waste-segregation-ai/
 │
@@ -91,7 +91,7 @@ waste-segregation-ai/
 
 ---
 
-⚙️ System Workflow
+# System Workflow
 1) Dataset collection and preprocessing
 2) Image augmentation and normalisation
 3) Transfer learning using MobileNetV2
@@ -101,17 +101,19 @@ waste-segregation-ai/
 
 ---
 
-📷 Real-Time Camera Prediction
+# Real-Time Camera Prediction
+
 This project supports real-time waste classification using:
-DroidCam
-OpenCV webcam feed
-Live prediction overlay
-Run the camera prediction system using:
-python test_camera.py
+1) DroidCam
+2) OpenCV webcam feed
+3) Live prediction overlay
+4) Run the camera prediction system using:
+        python test_camera.py
 
 ---
 
-💻 Installation & Setup
+# Installation & Setup
+
 1) Clone Repository
 git clone https://github.com/Maddy152006/waste-segregation-ai.git
 
@@ -127,6 +129,7 @@ python test_camera.py
 ---
 
 # Dataset
+
 The dataset is not included in this repository due to size limitations.
 Download Dataset Here:
    https://drive.google.com/drive/folders/1lz4Efzse1HAXAPS96VuKsnnGvCUOucrO?usp=sharing
@@ -139,6 +142,7 @@ Dataset Classes
 ---
 
 # Future Improvements
+
 - Robotic waste sorting arm integration
 - Edge-device deployment using Raspberry Pi
 - Multi-object waste detection
@@ -149,30 +153,31 @@ Dataset Classes
 ---
 
 # Applications
-Smart Recycling Systems
-Automated Waste Management
-AI-Based Environmental Monitoring
-Robotics & Industrial Automation
-Smart City Infrastructure
+
+- Smart Recycling Systems
+- Automated Waste Management
+- AI-Based Environmental Monitoring
+- Robotics & Industrial Automation
+- Smart City Infrastructure
 
 ---
 
 # Author
 Madhavan A Ramanujan
 B.Tech CSE (AI & Robotics) — VIT Chennai
-GitHub:
+- GitHub:
      https://github.com/Maddy152006
-LinkedIn:
+- LinkedIn:
      https://linkedin.com/in/madhavan-a-ramanujan-74629b374
 
 ---
 
-⭐ Project Highlights
-Real-time AI-powered waste classification
-Transfer learning using MobileNetV2
-Organized ML project structure
-Strong validation accuracy (~88%)
-Webcam-based live prediction support
-Designed for future robotics integration
+ # Project Highlights
+- Real-time AI-powered waste classification
+- Transfer learning using MobileNetV2
+- Organised ML project structure
+- Strong validation accuracy (~88%)
+- Webcam-based live prediction support
+- Designed for future robotics integration
 
 
